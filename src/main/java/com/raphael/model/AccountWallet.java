@@ -16,6 +16,11 @@ public class AccountWallet extends Wallet{
         this.pix = pix;
     }
 
+    @Override
+    public String toString() {
+        return super.toString() + "AccountWallet{pix=" + pix + "}";
+    }
+
     public AccountWallet(final long amount, List<String> pix) {
         super(ACCOUNT);
         this.pix = pix;
