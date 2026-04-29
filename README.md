@@ -1,4 +1,4 @@
-# 💳 Java Bank – Financial Transaction Control App
+# Java Bank – Financial Transaction Control App
 
 A simple financial transaction control system built in Java.  
 The application demonstrates modeling of accounts, investments, and transaction history with a focus on **encapsulation, inheritance, and polymorphism**.
